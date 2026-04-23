@@ -9,7 +9,7 @@
 -----
 
 # TEMA PROYEK
-Aplikasi web untuk mengelola data kendaraan secara efisien, yang cocok digunakan dalam keperluan inventaris kendaraan, rental kendaraan, dan sebagainya.
+> Aplikasi web untuk mengelola data kendaraan secara efisien, yang cocok digunakan dalam keperluan inventaris kendaraan, rental kendaraan, dan sebagainya.
 
 # TEKNOLOGI YANG DIGUNAKAN
 - Python + Streamlit (UI).
