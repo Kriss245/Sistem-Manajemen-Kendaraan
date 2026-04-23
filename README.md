@@ -18,13 +18,15 @@
 - Streamlit Session State (Autentikasi).
 
 # STRUKTUR FOLDER PROYEK
+```
 VehicleManager/
 │
-├── app.py            ← file tampilan utama Streamlit.
-├── db.py             ← koneksi ke database.
-├── auth.py           ← fungsi login dan session.
-├── README.md         ← identitas dan penjelasan terkait proyek.
-└── vehicles.py       ← fungsi CRUD kendaraan.
+├── app.py            ← file tampilan utama Streamlit
+├── db.py             ← koneksi ke database
+├── auth.py           ← fungsi login dan session
+├── vehicles.py       ← fungsi CRUD kendaraan
+└── README.md         ← identitas dan penjelasan proyek
+```
 
 # FITUR APLIKASI
 - Login dengan enkripsi password bcrypt.
