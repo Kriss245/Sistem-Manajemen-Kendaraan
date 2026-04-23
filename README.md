@@ -44,3 +44,8 @@ VehicleManager/
 4. Jalankan di terminal `streamlit run app.py`.
 5. Buka `http://localhost:8501` 
 6. Login dengan username: `admin`, password: `admin`.
+
+## 📃 Lisensi
+
+Proyek ini dirilis di bawah [MIT License](https://opensource.org/licenses/MIT).  
+Bebas digunakan untuk keperluan pribadi maupun komersial dengan atribusi yang sesuai.
